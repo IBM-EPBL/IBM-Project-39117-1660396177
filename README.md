@@ -1,2 +1,0 @@
-# Harishwar
-Smart Farming
